@@ -1,7 +1,7 @@
 let cards = document.getElementById("cards");
 
 const fetchData = async () => {
-  let response = await fetch("bjj-competitions/upcoming_compet.json", {
+  let response = await fetch("/bjj-competitions/upcoming_compet.json", {
     method: "get",
     headers: {
       "Content-Type": "application/json",
