@@ -19,7 +19,6 @@ const fetchData = async () => {
 
 const showCard = async () => {
   const data = await fetchData();
-  console.log(data);
   if (!data) {
     cards.innerHTML = "not data available";
   } else {
