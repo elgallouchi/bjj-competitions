@@ -1,10 +1,11 @@
 let cards = document.getElementById("cards");
 
 const fetchData = async () => {
-  let response = await fetch("./upcoming_compet.json", {
+  let response = await fetch("/upcoming_compet.json", {
     method: "get",
     headers: {
       "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
     },
   });
   // console.log(response);
@@ -26,25 +27,18 @@ const showCard = async () => {
     data.forEach((card) => {
       output += `
         <div class="card" id="card">
-        <img class="img-card" src="${card.Image}" alt="${card.Titre}" />
+        <img class="img-card" src="${card.image}" alt="${card.titre}" />
         <div class="details-card">
-          <h3 class="title-card">${card.Titre}</h3>
+          <h3 class="title-card">${card.titre}</h3>
           <div class="date-card">
-            <span class="date-event-card">Date : ${card.Date}</span>
-            <span class="date-left-card">Evenement dans : ${
-              card.JoursRestes.includes("days")
-                ? card.JoursRestes.split("days")[0].trim() + " jours"
-                : card.JoursRestes.includes("Today")
-                ? "Aujourd'hui"
-                : card.JoursRestes
-            }</span>
+            <span class="date-event-card">Date : ${card.date}</span>
           </div>
           <div class="location-card">
-            <span class="city-card">Ville : ${card.Ville}</span>
-            <span class="country-card">Pays : ${card.Pays}</span>
+            <span class="city-card">Ville : ${card.ville}</span>
+            <span class="country-card">Pays : ${card.pays}</span>
           </div>
           <a class="link-card" href="${
-            card.Lien
+            card.lien
           }" target="_blank">Voir l'evenement</a>
         </div>
       </div>
