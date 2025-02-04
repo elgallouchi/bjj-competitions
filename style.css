@@ -15,9 +15,11 @@ header {
   font-size: .7rem;
   display: flex;
   justify-content: center;
+  width: 100%;
+  padding: 1rem;
 }
 header .container {
-  width: 80%;
+  /* width: 80%; */
 }
 .cards {
   padding: 1rem;
