@@ -32,14 +32,6 @@
         "image": "https://smoothcomp.com/pictures/t/5003707-v7ey/open-gi-nogi-ckf-2024.jpg"
     },
     {
-        "titre": "Championnat Régional 2025 CVL U15 - U17 - U20 (Gréco, Libre, Féminine)",
-        "date": "January 20 - February 06",
-        "ville": "Dreux",
-        "pays": " France",
-        "lien": "https://fflutte.smoothcomp.com/fr/event/15607",
-        "image": "https://smoothcomp.com/pictures/t/5416653-r2ot/championnat-regional-2025-cvl-u15-u17-u20-greco-libre-feminine.jpg"
-    },
-    {
         "titre": "100% FIGHT 59 - FER",
         "date": "February 22",
         "ville": "AUBERVILLIERS",
@@ -54,6 +46,14 @@
         "pays": " France",
         "lien": "https://fmmaf.smoothcomp.com/fr/event/22303",
         "image": "https://smoothcomp.com/pictures/t/5499864-c2dt/mma-league-18-bretagne-2025.jpg"
+    },
+    {
+        "titre": "Championnat Régional 2025 CVL U15 - U17 - U20 (Gréco, Libre, Féminine)",
+        "date": "January 20 - February 06",
+        "ville": "Dreux",
+        "pays": " France",
+        "lien": "https://fflutte.smoothcomp.com/fr/event/15607",
+        "image": "https://smoothcomp.com/pictures/t/5416653-r2ot/championnat-regional-2025-cvl-u15-u17-u20-greco-libre-feminine.jpg"
     },
     {
         "titre": "GI NOGI CHALLENGE IBJJF RULES - TOURNOI DE BRETAGNE",
@@ -110,6 +110,14 @@
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/21541",
         "image": "https://smoothcomp.com/pictures/t/5379060-btdm/stairs-of-money-2025.jpg"
+    },
+    {
+        "titre": "Ossmoz Grappling Tournament",
+        "date": "April 27",
+        "ville": "Nogent-sur-Marne",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/22360",
+        "image": "https://smoothcomp.com/pictures/t/5544399-df59/ossmoz-grappling-tournament-2025.jpg"
     },
     {
         "titre": "G-ONE 9",
