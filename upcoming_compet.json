@@ -1,21 +1,5 @@
 [
     {
-        "titre": "MANTES CHALLENGE 10",
-        "date": "February 08",
-        "ville": "Mantes La Jolie",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/19968",
-        "image": "https://smoothcomp.com/pictures/t/4971376-1znb/mantes-challenge-10-2025.jpg"
-    },
-    {
-        "titre": "OPEN D'ILE DE FRANCE ENFANTS GI NOGI - 2025",
-        "date": "February 08",
-        "ville": "Montfermeil ",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/21418",
-        "image": "https://smoothcomp.com/pictures/t/5342154-pfch/open-dile-de-france-kids-gi-nogi-2025.jpg"
-    },
-    {
         "titre": "OPEN D'ILE DE FRANCE ADULTES GI NOGI - 2025",
         "date": "February 09",
         "ville": "Montfermeil ",
@@ -46,14 +30,6 @@
         "pays": " France",
         "lien": "https://fmmaf.smoothcomp.com/fr/event/22303",
         "image": "https://smoothcomp.com/pictures/t/5499864-c2dt/mma-league-18-bretagne-2025.jpg"
-    },
-    {
-        "titre": "Championnat Régional 2025 CVL U15 - U17 - U20 (Gréco, Libre, Féminine)",
-        "date": "January 20 - February 06",
-        "ville": "Dreux",
-        "pays": " France",
-        "lien": "https://fflutte.smoothcomp.com/fr/event/15607",
-        "image": "https://smoothcomp.com/pictures/t/5416653-r2ot/championnat-regional-2025-cvl-u15-u17-u20-greco-libre-feminine.jpg"
     },
     {
         "titre": "GI NOGI CHALLENGE IBJJF RULES - TOURNOI DE BRETAGNE",
@@ -174,6 +150,14 @@
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/15277",
         "image": "https://smoothcomp.com/pictures/t/5217126-xgs7/prime-fighting-entertainment-2024.jpg"
+    },
+    {
+        "titre": "Sélectif Wushu Sanda Sanda-Light Zone 3",
+        "date": "February 09",
+        "ville": "Salon-de-Provence",
+        "pays": " France",
+        "lien": "https://ffaemc.smoothcomp.com/fr/event/22507",
+        "image": "https://smoothcomp.com/pictures/t/5569855-pss5/selectif-wushu-sanda-sanda-light-zone-3-2025.jpg"
     },
     {
         "titre": "OPEN KUDO FRANCE 2025",
