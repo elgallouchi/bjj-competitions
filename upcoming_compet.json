@@ -1,13 +1,5 @@
 [
     {
-        "titre": "Open CKF GI-NOGI",
-        "date": "February 16",
-        "ville": "Massy",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/19813",
-        "image": "https://smoothcomp.com/pictures/t/5003707-v7ey/open-gi-nogi-ckf-2024.jpg"
-    },
-    {
         "titre": "100% FIGHT 59 - FER",
         "date": "February 22",
         "ville": "AUBERVILLIERS",
@@ -32,6 +24,14 @@
         "image": "https://smoothcomp.com/pictures/t/4660484-exub/gi-nogi-challenge-ibjjf-rules-tournoi-de-bretagne-2025.jpg"
     },
     {
+        "titre": "Championnat Régional Jeune LG et LF",
+        "date": "March 01",
+        "ville": "77260 La Ferté sous Jouarre",
+        "pays": " France",
+        "lien": "https://fflutte.smoothcomp.com/fr/event/22903",
+        "image": "https://smoothcomp.com/pictures/t/5636246-cptj/championnat-regional-jeune-lg-et-lf-2025.jpg"
+    },
+    {
         "titre": "Pro Series - Neo Fight Submissions Championship",
         "date": "March 08 - 09",
         "ville": "La Rochelle",
@@ -53,15 +53,31 @@
         "ville": "Rennes",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/22284",
-        "image": "https://smoothcomp.com/pictures/t/5504636-bdec/championnat-ouest-grappling-2025.jpg"
+        "image": "https://smoothcomp.com/pictures/t/5636021-lh3k/championnat-ouest-grappling-2025.jpg"
     },
     {
-        "titre": "GI NOGI CHALLENGE IBJJF RULES - TOURNOI DES HAUTS DE FRANCE - Saint Paul Sur Mer",
+        "titre": "GI NOGI CHALLENGE - TOURNOI DES HAUTS DE FRANCE - Saint Pol Sur Mer",
         "date": "April 06",
-        "ville": "Saint Paul Sur Mer",
+        "ville": "Saint Pol Sur Mer",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/19566",
         "image": "https://smoothcomp.com/pictures/t/4862483-ew1e/gi-nogi-challenge-ibjjf-rules-tournoi-des-hauts-de-france-saint-paul-sur-mer-2025.jpg"
+    },
+    {
+        "titre": "OSS grappling X IBJJF rules",
+        "date": "April 12 - 13",
+        "ville": "Paris",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/22843",
+        "image": "https://smoothcomp.com/pictures/t/5642505-9827/oss-grappling-x-ibjjf-rules-2025.jpg"
+    },
+    {
+        "titre": "OPEN DES HAUTS DE FRANCE GI NOGI- 2025",
+        "date": "April 19",
+        "ville": "Lille ",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/22887",
+        "image": "https://smoothcomp.com/pictures/t/5636000-kyeq/open-des-hauts-de-france-gi-nogi-2025.jpg"
     },
     {
         "titre": "Daymat 3 NO GI",
@@ -80,6 +96,22 @@
         "image": "https://smoothcomp.com/pictures/t/5379060-btdm/stairs-of-money-2025.jpg"
     },
     {
+        "titre": "GRAPPLING BJJ CHALLENGERS KIDS 10",
+        "date": "April 26",
+        "ville": "Bobigny",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/21548",
+        "image": "https://smoothcomp.com/pictures/t/5647865-v57w/grappling-bjj-challengers-kids-10-2025.jpg"
+    },
+    {
+        "titre": "GRAPPLING BJJ CHALLENGERS NOVICE 10",
+        "date": "April 27",
+        "ville": "Bobigny",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/21535",
+        "image": "https://smoothcomp.com/pictures/t/5648250-45wz/grappling-bjj-challengers-debutant-10-2025.jpg"
+    },
+    {
         "titre": "Ossmoz Grappling Tournament",
         "date": "April 27",
         "ville": "Nogent-sur-Marne",
@@ -96,6 +128,14 @@
         "image": "https://smoothcomp.com/pictures/t/5602864-3r8g/spirit-challenge-2025-bjj-tournament.jpg"
     },
     {
+        "titre": "Tournoi de Chatenay Malabry",
+        "date": "May 18",
+        "ville": "Chatenay Malabry",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/22206",
+        "image": "https://smoothcomp.com/pictures/t/5657178-6ltp/tournoi-de-chatenay-malabry-2025.jpg"
+    },
+    {
         "titre": "G-ONE 9",
         "date": "May 25",
         "ville": "PARIS",
@@ -104,7 +144,15 @@
         "image": "https://smoothcomp.com/pictures/t/5509187-9rce/g-one-9-2025.jpg"
     },
     {
-        "titre": "GI NOGI CHALLENGE ibjjf rules - GI NOGI EUROPEAN KIDS 2025",
+        "titre": "Tournoi du Plessis Robinson",
+        "date": "May 25",
+        "ville": "Le Plessis Robinson",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/22990",
+        "image": "https://smoothcomp.com/pictures/t/5657819-sssc/tournoi-du-plessis-robinson-2025.jpg"
+    },
+    {
+        "titre": "GI NOGI CHALLENGE - GI NOGI EUROPEAN KIDS 2025",
         "date": "June 28",
         "ville": "fontenay-sous bois",
         "pays": " France",
@@ -112,7 +160,7 @@
         "image": "https://smoothcomp.com/pictures/t/5340971-25ln/gi-nogi-challenge-ibjjf-rules-gi-nogi-european-kids-2025.jpg"
     },
     {
-        "titre": "GI NOGI CHALLENGE ibjjf rules - TOURNOI DE PARIS 2025",
+        "titre": "GI NOGI CHALLENGE - TOURNOI DE PARIS 2025",
         "date": "June 29",
         "ville": "Fontenay-sous-Bois",
         "pays": " France",
@@ -150,6 +198,14 @@
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/15277",
         "image": "https://smoothcomp.com/pictures/t/5217126-xgs7/prime-fighting-entertainment-2024.jpg"
+    },
+    {
+        "titre": "MMA League JUNIOR 3 - AGEN",
+        "date": "February 17 - March 01",
+        "ville": "AGEN",
+        "pays": " France",
+        "lien": "https://fmmaf.smoothcomp.com/fr/event/22625",
+        "image": "https://smoothcomp.com/pictures/t/5627321-khzo/mma-league-junior-3-agen-2025.jpg"
     },
     {
         "titre": "OPEN KUDO FRANCE 2025",
