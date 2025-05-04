@@ -1,352 +1,212 @@
 [
     {
-        "id": "f5a192c5-4b57-4abc-9513-2c299e3ca907",
-        "titre": "OSS grappling X IBJJF rules",
-        "date": "April 12 - 13",
-        "ville": "Paris",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/22843",
-        "image": "https://smoothcomp.com/pictures/t/5642505-9827/oss-grappling-x-ibjjf-rules-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "46d8c8e6-2032-4276-89aa-72321d817d19",
-        "titre": "OPEN DES HAUTS DE FRANCE GI NOGI- 2025",
-        "date": "April 19",
-        "ville": "Lille ",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/22887",
-        "image": "https://smoothcomp.com/pictures/t/5636000-kyeq/open-des-hauts-de-france-gi-nogi-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "83e7584f-c9f3-44fd-93a1-c38ef4b82d43",
-        "titre": "OPEN DU VAL D'OISE ( CASH PRIZE ) Gi / NoGI / ADULTE / KIDS / JUVENILE / MASTER",
-        "date": "April 19 - 20",
-        "ville": "Ville",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23223",
-        "image": "https://smoothcomp.com/pictures/t/5751606-i56a/open-du-val-doise-cash-prise-gi-nogi-adulte-kids-juvenile-master-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "8ee69fc2-9e2f-4668-a1b1-0e13d01b361a",
-        "titre": "Daymat 3 NO GI",
-        "date": "April 20",
-        "ville": "ploërmel ",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/21459",
-        "image": "https://smoothcomp.com/pictures/t/5333303-xxuj/daymat-3-no-gi-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "70c44bbe-e5f6-4784-b6d5-f038f8e7722f",
-        "titre": "STAIRS OF MONEY",
-        "date": "April 20",
-        "ville": "Creil",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/21541",
-        "image": "https://smoothcomp.com/pictures/t/5379060-btdm/stairs-of-money-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "d326d466-3069-412d-a7ef-b7883cfb4943",
-        "titre": "GRAPPLING BJJ CHALLENGERS KIDS 10",
-        "date": "April 26",
-        "ville": "Bobigny",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/21548",
-        "image": "https://smoothcomp.com/pictures/t/5647865-v57w/grappling-bjj-challengers-kids-10-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "02f146e9-7473-4bc0-9993-22164ac1f035",
-        "titre": "CKF OPEN 3vs3 GI NOGI - Represent Your City",
-        "date": "April 26",
-        "ville": "Aulnay sous bois",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23154",
-        "image": "https://smoothcomp.com/pictures/t/5714643-p6ea/ckf-open-3vs3-gi-nogi-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "e46ab5ab-eb7e-41d4-8674-3078b26aa2ad",
-        "titre": "GRAPPLING BJJ CHALLENGERS NOVICE 10",
-        "date": "April 27",
-        "ville": "Bobigny",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/21535",
-        "image": "https://smoothcomp.com/pictures/t/5648250-45wz/grappling-bjj-challengers-debutant-10-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "fd5b86b0-bd48-47a3-bd05-1e287f34ff8c",
-        "titre": "Ossmoz Grappling Tournament",
-        "date": "April 27",
-        "ville": "Nogent-sur-Marne",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/22360",
-        "image": "https://smoothcomp.com/pictures/t/5685433-yuhp/ossmoz-grappling-tournament-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "4fedcb6c-13b0-4e1b-ad54-f4fba71d3fed",
-        "titre": "100% FIGHT 60 - FER 61KG & 120KG",
-        "date": "May 03",
-        "ville": "aubervilliers",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23188",
-        "image": "https://smoothcomp.com/pictures/t/5726777-3cpj/100-fight-60-fer-61kg-120kg-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "e431d04d-f20b-47f2-aae9-af50a07e8477",
-        "titre": "MMA AMATEUR 1er ÉDITION Kids",
-        "date": "May 03",
-        "ville": "Clichy-sous-bois",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23429",
-        "image": "https://smoothcomp.com/pictures/t/5800959-ynb1/mma-amateur-1er-edition-kids-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "9daac7b6-eb00-4ae1-829e-fac5ff93717c",
-        "titre": "MMA AMATEUR 1er ÉDITION U20 / Seniors",
-        "date": "May 04",
-        "ville": "Clichy-sous-Bois",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23428",
-        "image": "https://smoothcomp.com/pictures/t/5800666-k5za/mma-amateur-1er-edition-u20-senirors-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "ec0ec69e-a756-4027-a304-893b04239aaf",
-        "titre": "OPEN LIGA DE JIU JITSU",
-        "date": "May 04",
-        "ville": "VIGNEUX SUR SEINE 91270",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23738",
-        "image": "https://smoothcomp.com/pictures/t/5925878-xpd5/open-liga-de-jiu-jitsu-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "90612387-8856-41fb-aea7-a09337de5acc",
+        "id": "f55203ec-6744-4450-a28b-30a0c13f4c35",
         "titre": "SPIRIT CHALLENGE 2025 BJJ TOURNAMENT",
         "date": "May 11",
         "ville": "Fontenay-sous-Bois",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/22826",
         "image": "https://smoothcomp.com/pictures/t/5602864-3r8g/spirit-challenge-2025-bjj-tournament.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "712fccae-bf6d-47ed-91fd-bcdfada256d9",
+        "id": "e107b71d-82f3-42b9-b52a-e865e4762d33",
+        "titre": "Neo Fight Submissions Championship",
+        "date": "May 17 - 18",
+        "ville": "La Rochelle",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/23757",
+        "image": "https://smoothcomp.com/pictures/t/5938469-xs7f/neo-fight-submissions-championship-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
+    },
+    {
+        "id": "07ef29de-907d-4a0a-9b72-e52bc54080b8",
         "titre": "Tournoi de Chatenay Malabry",
         "date": "May 18",
         "ville": "Chatenay Malabry",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/22206",
         "image": "https://smoothcomp.com/pictures/t/5657178-6ltp/tournoi-de-chatenay-malabry-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "4205385d-92f1-4c9d-ad93-11e6e1945ad9",
+        "id": "88bca6b7-86d0-4f8e-a002-25042a22bd04",
+        "titre": "KONDO FIGHT",
+        "date": "May 18",
+        "ville": "Paris 75013",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/23837",
+        "image": "https://smoothcomp.com/pictures/t/6038783-4fdk/kondo-fight-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
+    },
+    {
+        "id": "b62aa387-e397-41f4-ac01-fe5898a13881",
         "titre": "G-ONE 9",
         "date": "May 25",
         "ville": "PARIS",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/17040",
         "image": "https://smoothcomp.com/pictures/t/5509187-9rce/g-one-9-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "fadb382e-4778-4d25-8bad-706711edd830",
+        "id": "6ad22e86-8324-4566-95c2-80b70d9a8f3f",
         "titre": "Tournoi du Plessis Robinson",
         "date": "May 25",
         "ville": "Le Plessis Robinson",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/22990",
         "image": "https://smoothcomp.com/pictures/t/5657819-sssc/tournoi-du-plessis-robinson-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "accea405-312a-4285-ae6b-a0329b226c54",
+        "id": "5c9e73ac-c019-4bbb-9a71-c672077e79f5",
+        "titre": "Élite submission Fight",
+        "date": "May 31",
+        "ville": "pantin",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/19345",
+        "image": "https://smoothcomp.com/pictures/t/6060984-9xoj/elite-submission-fight-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
+    },
+    {
+        "id": "fe29314b-6356-4b3c-9e99-1c5590c49f70",
         "titre": "RISING STAR CUP 2025",
         "date": "May 31 - June 01",
         "ville": "Valenton",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/22963",
         "image": "https://smoothcomp.com/pictures/t/5718318-rwnj/rising-star-cup-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "bb15a021-97b9-4099-99a1-fc7a3145452c",
+        "id": "9b5d688c-13c1-429c-8f30-9fbc668c5e16",
         "titre": "OSS GRAPPLING X ADCC RULES",
         "date": "June 01",
         "ville": "Ivry sur Seine",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/23256",
-        "image": "https://smoothcomp.com/pictures/t/5853834-7det/oss-grappling-x-adcc-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "image": "https://smoothcomp.com/pictures/t/6066273-b6eb/oss-grappling-x-adcc-rules-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "82e544ad-311d-4f13-9fc3-eacc3ac595e6",
+        "id": "f6716af6-de8e-4661-9dd9-d2721b634c5c",
         "titre": "Revolution Choke Tournament | Annemasse 74",
         "date": "June 07",
         "ville": "annemasse",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/23486",
         "image": "https://smoothcomp.com/pictures/t/5871055-qius/revolution-choke-tournament-annemasse-74-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "0ed86158-5432-4d80-bcd0-e0e79c7c62f6",
-        "titre": "23 ème Grand Prix de Paris de Sambo",
+        "id": "c28961fd-59c8-4ce3-bf9d-a71372ac5d65",
+        "titre": "23ème Grand Prix de Paris de Sambo",
         "date": "June 14",
         "ville": "Paris",
         "pays": " France",
         "lien": "https://cfs.smoothcomp.com/fr/event/23656",
         "image": "https://smoothcomp.com/pictures/t/5890260-va4m/23-eme-grand-prix-de-paris-de-sambo-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "91fda75b-daea-4d72-8f8b-29f6c7ae5a45",
+        "id": "69b27663-21f8-4827-8fc9-5e9f1f856a63",
+        "titre": "OPEN LIGA DE JIU JITSU",
+        "date": "June 22",
+        "ville": "VIGNEUX SUR SEINE 91270",
+        "pays": " France",
+        "lien": "https://smoothcomp.com/fr/event/23738",
+        "image": "https://smoothcomp.com/pictures/t/6181502-vnzh/open-liga-de-jiu-jitsu-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
+    },
+    {
+        "id": "3c66f94c-9235-4d1b-93c9-9c1b4ec2d25d",
         "titre": "GI NOGI CHALLENGE - GI NOGI EUROPEAN KIDS 2025",
         "date": "June 28",
         "ville": "fontenay-sous bois",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/21488",
         "image": "https://smoothcomp.com/pictures/t/5340971-25ln/gi-nogi-challenge-ibjjf-rules-gi-nogi-european-kids-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "e851ba3f-2d65-49b7-9f47-e66921e3a882",
+        "id": "237c77c4-4ff6-4682-b4a3-8c70af60840c",
         "titre": "GI NOGI CHALLENGE - TOURNOI DE PARIS 2025",
         "date": "June 29",
         "ville": "Fontenay-sous-Bois",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/21242",
         "image": "https://smoothcomp.com/pictures/t/5304970-bz62/gi-nogi-challenge-ibjjf-rules-tournoi-de-paris-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "defbbf31-622a-4cce-8f7c-25ed4d36d264",
+        "id": "eb0c288b-1d2f-48a9-a591-2411ce8efdb3",
         "titre": "Grappling Industries PARIS",
         "date": "August 24",
         "ville": "Paris",
         "pays": " France",
         "lien": "https://grapplingindustries.smoothcomp.com/fr/event/21631",
-        "image": "https://smoothcomp.com/pictures/t/5375798-zf6e/grappling-industries-paris-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "image": "https://smoothcomp.com/pictures/t/6018198-r16a/grappling-industries-paris-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "8de1d598-1c9a-4213-8705-201741371bed",
+        "id": "caae03b9-d1ee-4f3c-98bd-eb20f2150898",
         "titre": "Grappling Industries BORDEAUX",
         "date": "June 07",
         "ville": "Bordeaux",
         "pays": " France",
         "lien": "https://grapplingindustries.smoothcomp.com/fr/event/19246",
         "image": "https://smoothcomp.com/pictures/t/5721198-y7h7/grappling-industries-bordeaux-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "edcece2f-c262-4c95-ac9f-8c3ba6f7770b",
+        "id": "b80f11f9-bb5c-4574-9fb8-6fe3ff0fb825",
         "titre": "JUNGLE KIDZ CHALLENGE",
         "date": "May 31",
         "ville": "Toulouse",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/23316",
         "image": "https://smoothcomp.com/pictures/t/5773696-ey29/jungle-kidz-challenge-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "6306e4ee-102a-4ae8-9372-a8363acb478a",
+        "id": "0ed907a2-f882-4dd0-97f0-5cf7e185db97",
         "titre": "JUNGLE MAT CHALLENGE",
         "date": "June 01",
         "ville": "TOULOUSE",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/23340",
         "image": "https://smoothcomp.com/pictures/t/5780967-q5rf/jungle-mat-challenge-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "490e25bc-e656-4379-aa7d-3fd032faa3b1",
-        "titre": "6ème  OPEN SAMBO MASTERS DE LA MEDITERRANEE",
-        "date": "April 19",
-        "ville": "Poussan",
-        "pays": " France",
-        "lien": "https://cfs.smoothcomp.com/fr/event/23246",
-        "image": "https://smoothcomp.com/pictures/t/5742661-s92b/6eme-open-masters-de-la-mediterranee-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "3fe2a049-4619-42c7-994c-e79c75987f55",
-        "titre": "OPEN DES JEUNES SAMBO  DE LA MEDITERRANEE",
-        "date": "April 19",
-        "ville": "Poussan",
-        "pays": " France",
-        "lien": "https://cfs.smoothcomp.com/fr/event/23491",
-        "image": "https://smoothcomp.com/build/webpack/img/sc/fallback.8fe47956faa4fb29c29f..jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "cd905f33-c77b-4672-a746-80a82a28b102",
+        "id": "2974b4a3-22dc-43f2-8d09-e9c2e23e1a2c",
         "titre": "Compnet National Championship France 2025",
         "date": "June 22",
         "ville": "MARSEILLE",
         "pays": " France",
         "lien": "https://compnet.smoothcomp.com/fr/event/23423",
         "image": "https://smoothcomp.com/pictures/t/5889366-nwmb/compnet-national-france-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     },
     {
-        "id": "20d211bd-40fd-4924-a1d7-4d65a4d7389f",
+        "id": "f44caea9-2e4b-466d-918e-db945ff0bd3c",
+        "titre": "MMA League JUNIOR 4-ONDRES",
+        "date": "May 10 - 11",
+        "ville": "ondres",
+        "pays": " France",
+        "lien": "https://fmmaf.smoothcomp.com/fr/event/23850",
+        "image": "https://smoothcomp.com/pictures/t/6037821-8zdk/mma-league-junior-4-ondres-2025.jpg",
+        "created_at": "05-05-25_00:37:23"
+    },
+    {
+        "id": "99472d72-227a-4c9a-a46c-85c6a429a5fc",
         "titre": "OPEN EUROPE GI & NO-GI MARSEILLE 2025",
         "date": "June 01",
         "ville": "MARSEILLE",
         "pays": " France",
         "lien": "https://smoothcomp.com/fr/event/23250",
         "image": "https://smoothcomp.com/pictures/t/5781011-az9k/open-europe-gi-no-gi-marseille-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "a7bb5314-878b-454d-b8cf-04105968cc12",
-        "titre": "Prime Fighting Entertainment",
-        "date": "April 27",
-        "ville": "ANGLET",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/15277",
-        "image": "https://smoothcomp.com/pictures/t/5217126-xgs7/prime-fighting-entertainment-2024.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "c8c36c48-0ac0-4d5f-94f6-0984a390b820",
-        "titre": "GI NOGI CHALLENGE - TOURNOI DE NICE",
-        "date": "May 04",
-        "ville": "Nice",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23294",
-        "image": "https://smoothcomp.com/pictures/t/5776578-ou34/gi-nogi-challenge-tournoi-de-nice-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "8b38a150-3468-4e78-9acf-c61c069202b1",
-        "titre": "Test Trophée AMPG",
-        "date": "May 01",
-        "ville": "Saint Genis Pouilly ",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23806",
-        "image": "https://smoothcomp.com/build/webpack/img/sc/fallback.8fe47956faa4fb29c29f..jpg",
-        "created_at": "06-04-25_21:58:47"
-    },
-    {
-        "id": "eedad66e-eaec-40b6-b30e-a3cd69539739",
-        "titre": "Neo Fight Submissions Championship",
-        "date": "May 17 - 18",
-        "ville": "La Rochele",
-        "pays": " France",
-        "lien": "https://smoothcomp.com/fr/event/23757",
-        "image": "https://smoothcomp.com/pictures/t/5938469-xs7f/neo-fight-submissions-championship-2025.jpg",
-        "created_at": "06-04-25_21:58:47"
+        "created_at": "05-05-25_00:37:23"
     }
 ]
